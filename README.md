@@ -5,7 +5,7 @@
 ### <div align="center">Frontend Developer | UI/UX Enthusiast</div>
 
 <p align="center">
- <a href="#" target="blank">
+ <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
  </a>
  <a href="https://linkedin.com/in/azka-afiq" target="_blank">
