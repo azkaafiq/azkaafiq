@@ -23,11 +23,6 @@
 </p>
 <br/>
 
-<p>
- <img center="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
-</p>
-
 # Connect with me  
 <div align="left">
 <a href="https://github.com/azkaafiq" target="_blank">
